@@ -4,7 +4,7 @@
 
 
 //Precompiler-Variablen
-
+#define TCOUNT 6
 
 //Datatypes
 
